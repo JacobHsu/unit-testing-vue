@@ -25,6 +25,9 @@ module.exports = {
 
 `$ yarn test:unit`
 
+https://www.vuemastery.com/courses/unit-testing/writing-a-unit-test-with-jest/
+https://www.vuemastery.com/courses/unit-testing/Testing-Props-and-User-Interaction
+
 ## Project setup
 ```
 yarn install
