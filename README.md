@@ -28,6 +28,17 @@ module.exports = {
 https://www.vuemastery.com/courses/unit-testing/writing-a-unit-test-with-jest/
 https://www.vuemastery.com/courses/unit-testing/Testing-Props-and-User-Interaction
 
+## testing-api-calls
+
+@vue/cli-plugin-unit-jest" ^3.0.3
+:::error::: getMessage.mockResolvedValueOnce FAIL
+
+`yarn add @vue/cli-plugin-unit-jest@^4.1.0`
+
+## json-server
+
+`$ json-server --watch db.json`
+
 ## Project setup
 ```
 yarn install
